@@ -1,0 +1,3 @@
+'JSP000301.jsp_000301' depends on axioms: [propext, Classical.choice, Quot.sound]
+'JSP000301.jsp_000301_elem' depends on axioms: [propext, Classical.choice, Quot.sound]
+'JSP000301.jsp_000301_witness' depends on axioms: [propext, Classical.choice, Quot.sound]
